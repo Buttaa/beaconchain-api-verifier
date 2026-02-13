@@ -161,4 +161,4 @@ Reports are written to the `investigations/` directory by default.
 
 ## License
 
-MIT
+GPL
